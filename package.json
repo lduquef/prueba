@@ -19,9 +19,11 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
+    "build": "webpack" ,
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "heroku-run-build-script": true,
   "author": "Luis",
   "license": "ISC",
   "repository": {
