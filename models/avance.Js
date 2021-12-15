@@ -4,7 +4,6 @@ import {userModel} from "./user.js";
 
 const { Schema, model } = mongoose;
 
-
 const avanceSchema  = new mongoose.Schema({
     proyecto :{
         type:Schema.Types.ObjectId,
