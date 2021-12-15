@@ -22,5 +22,13 @@
     "dev": "nodemon index.js"
   },
   "author": "Luis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lduquef/prueba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lduquef/prueba/issues"
+  },
+  "homepage": "https://github.com/lduquef/prueba#readme"
 }
